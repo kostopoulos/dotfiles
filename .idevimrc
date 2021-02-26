@@ -1,0 +1,9 @@
+
+set showmode=true
+set clipboard=unnamedplus
+set relativenumber
+set number
+" https://github.com/JetBrains/ideavim/blob/master/doc/emulated-plugins.md
+
+" https://youtrack.jetbrains.com/issue/VIM-1970
+set set highlightedyank
